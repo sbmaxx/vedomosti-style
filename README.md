@@ -1,4 +1,16 @@
-Привет.
+### TL;DR
+
+[До] [6], [после] [7]
+
+## Правки
+
+```javascript
+(function() {
+    var bundlePath = 'https://cdn.rawgit.com/sbmaxx/vedomosti-style/master/';
+    $('head').append('<link rel="stylesheet" href="' + bundlePath + 'index.css' + '"></link>');
+    $('head').append('<script src="' + bundlePath + 'index.js' + '"></script>');
+}());
+```
 
 Входные данные — mbp retina 15", браузер развернут "почти на всю ширину экрана", `$(document).width` — 1155px. При этом после авторизации шапку распирает на [две строки] [1]. С более коротким логином проблемы [не наблюдается] [2], но не менять же ради этого имя ;)
 
@@ -20,7 +32,6 @@
 1. в блоке `b-subscribe` в очередной раз задана высота строки в `32px`, хотя можно было задать это один раз. более того задана с `!important`;
 1. аналогично `.b-button.b-button_auth a`
 1. в итоговом HTML не вырезаны пробелы между тэгами, из-за этого несмотря на корректные стили между элементами остаются [отступы](5). Рекомендуется вырезать все незначащие пробелы после генерации HTML.
-1.
 
 _\* — обращал внимание только на `header`._
 
@@ -29,3 +40,5 @@ _\* — обращал внимание только на `header`._
 [3]: https://yadi.sk/i/hv5YxfLWex6cT
 [4]: https://yadi.sk/i/Ft2bdqTqex7tJ
 [5]: https://yadi.sk/i/Ur7rXf7Iex9uV
+[6]: https://yadi.sk/i/p3iA4PbNexB7p
+[7]: https://yadi.sk/i/cKpe3QUiexBBT
