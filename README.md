@@ -52,6 +52,22 @@ _\* — обращал внимание только на `header`._
 
 > Акция памяти Бориса Немцова проходит вместо протестного марша «Весна», в организации которого политик принимал участие.
 
+Не понравилось выбранное место для кнопок "комментарии", "версия для печати". Они съедают много вертикально места от текста статьи.
+
+С ними можно сделать, например вот так:
+
+<a href="https://fotki.yandex.ru/next/users/sbmaxx/album/16903/view/675674" target="_blank"><img src="https://img-fotki.yandex.ru/get/4800/17667337.2/0_a4f5a_9e03fe9a_L.png" width="500" height="499" border="0" title="2015-03-01 19-51-08 Ведомости.png" alt="2015-03-01 19-51-08 Ведомости.png"/></a>
+
+<a href="https://fotki.yandex.ru/next/users/sbmaxx/album/16903/view/675673" target="_blank"><img src="https://img-fotki.yandex.ru/get/41/17667337.2/0_a4f59_bd97b3fb_L.png" width="500" height="441" border="0" title="2015-03-01 19-59-03 Ведомости.png" alt="2015-03-01 19-59-03 Ведомости.png"/></a>
+
+Тогда и весь текст статьи сразу становится приятней читать.
+
+И заодно можно поиграться с вставкой картинок около статьи:
+
+<a href="https://fotki.yandex.ru/next/users/sbmaxx/album/16903/view/675678" target="_blank"><img src="https://img-fotki.yandex.ru/get/15560/17667337.2/0_a4f5e_40bb1218_L.png" width="500" height="399" border="0" title="2015-03-01 20-45-27 Ведомости.png" alt="2015-03-01 20-45-27 Ведомости.png"/></a>
+
+<a href="https://fotki.yandex.ru/next/users/sbmaxx/album/16903/view/675677" target="_blank"><img src="https://img-fotki.yandex.ru/get/5817/17667337.2/0_a4f5d_c0f508ef_L.png" width="500" height="453" border="0" title="2015-03-01 20-45-39 Ведомости.png" alt="2015-03-01 20-45-39 Ведомости.png"/></a>
+
 [1]: https://yadi.sk/i/U7DSOaYrex6Wa
 [2]: https://yadi.sk/i/eieIR1xJex6Xd
 [3]: https://yadi.sk/i/hv5YxfLWex6cT

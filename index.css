@@ -85,3 +85,63 @@ header
     font-style: normal;
     margin-left: -11px;
 }
+
+
+.b-document__authors
+{
+    width: 300px;
+    float: none;
+}
+
+.b-params
+{
+    position: static;
+    float: right;
+    width: 120px;
+}
+
+.b-params > ul > li
+{
+    float: left;
+    width: 40px;
+    padding: 0;
+    border-bottom: 0;
+}
+
+.b-params > ul > li.comments
+{
+    width: 80px;
+}
+
+.b-params li:first-child
+{
+    border-top: 0;
+}
+
+div.counter
+{
+    display: inline-block;
+}
+
+body .b-params li .counter
+{
+    width: 35px;
+    margin: 0;
+}
+
+.b-document p
+{
+    padding-left: 0;
+}
+
+.b-inset
+{
+    border-top: 0;
+    padding: 0 0 5px 0;
+    margin: 15px 15px 10px 0;
+}
+
+.b-big-green-link
+{
+    margin-left: 0;
+}
