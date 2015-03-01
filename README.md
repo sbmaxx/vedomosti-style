@@ -8,7 +8,7 @@
 
 ```javascript
 (function() {
-    var bundlePath = 'https://rawgit.com/sbmaxx/vedomosti-style/master/';
+    var bundlePath = 'https://cdn.rawgit.com/sbmaxx/vedomosti-style/master/';
     $('head').append('<link rel="stylesheet" href="' + bundlePath + 'index.css' + '"></link>');
     $('head').append('<script src="' + bundlePath + 'index.js' + '"></script>');
 }());
