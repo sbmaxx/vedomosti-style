@@ -1,6 +1,8 @@
 ### TL;DR
 
-[До] [6], [после] [7]
+<a href="https://fotki.yandex.ru/next/users/sbmaxx/album/16903/view/675669" target="_blank"><img src="https://img-fotki.yandex.ru/get/6838/17667337.2/0_a4f55_79753d10_XL.png" width="800" height="508" border="0" title="2015-03-01 14-29-23 Ведомости.png" alt="2015-03-01 14-29-23 Ведомости.png"/></a>
+
+<a href="https://fotki.yandex.ru/next/users/sbmaxx/album/16903/view/675668" target="_blank"><img src="https://img-fotki.yandex.ru/get/15565/17667337.2/0_a4f54_7e45e81_XL.png" width="800" height="508" border="0" title="2015-03-01 14-30-22 Ведомости.png" alt="2015-03-01 14-30-22 Ведомости.png"/></a>
 
 ## Правки
 
