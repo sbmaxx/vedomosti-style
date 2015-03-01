@@ -70,3 +70,13 @@
         margin: 0 5px;
     }
 }
+
+.typo-s
+{
+    margin-right: 11px;
+}
+.typo-q
+{
+    font-style: normal;
+    margin-left: -11px;
+}
