@@ -8,6 +8,8 @@ $('.b-header__container').each(function() {
 $('.b-button_auth a').first().addClass('user-fio');
 
 var documentBody = $('.b-document__body');
-var content = documentBody.html();
-content = content.replace(/\s«/g, '<i class="typo-s"> </i><i class="typo-q">«</i>');
-documentBody.html(content);
+if (documentBody.length) {
+    var content = documentBody.html();
+    content = content.replace(/\s«/g, '<i class="typo-s"> </i><i class="typo-q">«</i>');
+    documentBody.html(content);
+}
