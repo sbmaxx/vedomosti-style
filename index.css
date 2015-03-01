@@ -1,0 +1,72 @@
+.b-header__container
+{
+    padding: 30px 0 0 0;
+    line-height: 26px;
+}
+
+.b-date,
+.b-gazeta,
+.b-subscribe,
+.b-header__divider,
+.b-icon.icon-no-person,
+.b-button.b-button_auth a
+{
+    margin: 0;
+    padding: 0;
+}
+
+.b-icon.icon-gazeta,
+.b-icon.icon-subscribe
+{
+    vertical-align: middle;
+}
+
+.b-icon.icon-gazeta
+{
+    height: 24px;
+    width: 26px;
+    background-position: -100px -244px;
+}
+
+.b-icon.icon-subscribe
+{
+    height: 24px;
+    width: 26px;
+    background-position: -61px -141px;
+}
+
+.b-icon.icon-no-person
+{
+    height: 24px;
+    width: 26px;
+}
+
+.b-button.b-button_auth a,
+.b-subscribe
+{
+    line-height: 26px !important;
+}
+
+.b-gazeta
+{
+    line-height: 26px;
+}
+
+.b-date
+{
+    float: none;
+}
+
+.b-header__divider
+{
+    margin: 0 5px;
+    height: 26px;
+}
+
+@media screen
+{
+    .b-button_auth > a.user-fio
+    {
+        margin: 0 5px;
+    }
+}
